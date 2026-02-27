@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nadika.github.io/al-folio/sitemap.xml
+Sitemap: https://nadika.github.io/sitemap.xml
